@@ -88,5 +88,8 @@ dependencies:
   - xz=5.2.4
   - zeromq=4.3.1
   - zlib=1.2.11
+  - pip:
+    - autopep8==1.4.3
+    - pycodestyle==2.5.0
 prefix: /Users/Randy/anaconda3/envs/prod
 
